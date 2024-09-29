@@ -1,7 +1,7 @@
 var:
   last_build_time: 1727568952
-  previously_selected_schema: wubi86_jidian_pinyin
+  previously_selected_schema: wubi86_jidian_trad_pinyin
   schema_access_time:
-    pinyin_simp: 1727570135
-    wubi86_jidian_pinyin: 1727570176
-    wubi86_jidian_trad_pinyin: 1727570154
+    pinyin_simp: 1727571335
+    wubi86_jidian_pinyin: 1727571341
+    wubi86_jidian_trad_pinyin: 1727576812

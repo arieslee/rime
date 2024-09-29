@@ -1,2 +1,5 @@
-2024/09/29-08:35:35.624000 21428 Creating DB D:\rime-user-data\pinyin_simp.userdb since it was missing.
-2024/09/29-08:35:35.630000 21428 Delete type=3 #1
+2024/09/29-08:55:35.673000 20308 Recovering log #3
+2024/09/29-08:55:35.673000 20308 Level-0 table #5: started
+2024/09/29-08:55:35.676000 20308 Level-0 table #5: 264 bytes OK
+2024/09/29-08:55:35.679000 20308 Delete type=0 #3
+2024/09/29-08:55:35.679000 20308 Delete type=3 #2
