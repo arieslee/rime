@@ -1,0 +1,8 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin
+#@/db_type	userdb
+#@/rime_version	1.11.2
+#@/tick	2
+#@/user_id	2b6f90fc-1e76-40ba-9677-54c5cc6c0b0a
+wan quan 	完全	c=1 d=1 t=1
+wu qi 	武器	c=1 d=1 t=2
