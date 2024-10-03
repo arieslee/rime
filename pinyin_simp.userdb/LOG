@@ -1,5 +1,8 @@
-2024/09/29-08:55:35.673000 20308 Recovering log #3
-2024/09/29-08:55:35.673000 20308 Level-0 table #5: started
-2024/09/29-08:55:35.676000 20308 Level-0 table #5: 264 bytes OK
-2024/09/29-08:55:35.679000 20308 Delete type=0 #3
-2024/09/29-08:55:35.679000 20308 Delete type=3 #2
+2024/10/03-15:46:39.195000 12416 Log #6: 2 ops saved to Table #8 OK
+2024/10/03-15:46:39.196000 12416 Archiving E:\Rime\UserData\pinyin_simp.userdb/000006.log: OK
+2024/10/03-15:46:39.196000 12416 Table #5: 7 entries OK
+2024/10/03-15:46:39.196000 12416 Table #7: 2 entries OK
+2024/10/03-15:46:39.196000 12416 Table #8: 2 entries OK
+2024/10/03-15:46:39.196000 12416 Archiving E:\Rime\UserData\pinyin_simp.userdb/MANIFEST-000001: OK
+2024/10/03-15:46:39.197000 12416 Archiving E:\Rime\UserData\pinyin_simp.userdb/MANIFEST-000004: OK
+2024/10/03-15:46:39.200000 12416 **** Repaired leveldb E:\Rime\UserData\pinyin_simp.userdb; recovered 3 files; 574 bytes. Some data may have been lost. ****
