@@ -2,13 +2,13 @@ __build_info:
   rime_version: 1.11.2
   timestamps:
     default: 1717674678
-    default.custom: 1727568919
+    default.custom: 1727534148
     key_bindings: 1717674678
     key_bindings.custom: 0
     punctuation: 1717674678
     punctuation.custom: 0
     wubi86_jidian_pinyin.custom: 0
-    wubi86_jidian_pinyin.schema: 1727568919
+    wubi86_jidian_pinyin.schema: 1727876042
 abc_segmentor:
   extra_tags:
     - reverse_lookup
@@ -164,7 +164,7 @@ translator:
   enable_completion: true
   enable_encoder: true
   enable_sentence: false
-  enable_user_dict: false
+  enable_user_dict: true
   encode_commit_history: false
   max_phrase_length: 10
   user_dict: user
